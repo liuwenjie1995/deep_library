@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/liuwenjie/anaconda2/envs/tf/bin/python",
+    "python.linting.pylintEnabled": false,
+    "git.path": "usr/bin/git",
+}
